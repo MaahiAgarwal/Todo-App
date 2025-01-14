@@ -1,7 +1,7 @@
 # To-Do List Application
 
 ## **Description**
-A simple Java-based To-Do List application that helps users organize and manage daily tasks. The app allows adding, viewing, updating, and removing tasks efficiently, with features like task categories, priority levels, and due dates.
+A simple Python-based To-Do List application that helps users organize and manage daily tasks. The app allows adding, viewing, updating, and removing tasks efficiently, with features like task categories, priority levels, and due dates.
 
 ## **Key Features**
 - **Task Categories**: Organize tasks into categories like Work, Personal, etc.
@@ -10,15 +10,7 @@ A simple Java-based To-Do List application that helps users organize and manage 
 - **Persistent Data**: Save tasks persistently, ensuring data is not lost.
 - **User Interaction**: Command-line menu for easy task management.
 
-## **Technologies Used**
-- Core Java
-- `Scanner` for user input
-- `ArrayList` for storing tasks
-
 ## **Getting Started**
-
-### **Requirements**:
-- Java Development Kit (JDK) 8 or higher
 
 3. **Follow the on-screen prompts** to add, view, update, or remove tasks.
 
